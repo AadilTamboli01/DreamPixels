@@ -6,7 +6,7 @@ import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 import Result from './pages/Result'
 import BuyCredit from './pages/BuyCredit'
-import Buy from './pages/Buy'
+
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import Login from './components/Login'
